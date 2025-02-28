@@ -148,3 +148,16 @@ wheel==0.41.2
 widgetsnbextension==4.0.10
 wrapt==1.16.0
 flask
+albumentations
+torchvision
+torchaudio
+timm
+matplotlib
+opencv-python
+scipy
+tqdm
+seaborn
+tensorflow
+scikit-image
+gdown
+nbconvert
